@@ -8,3 +8,5 @@
 
 ### Анализ требований для приложения "Интернет-магазин".
 [Ссылка на документ](https://docs.google.com/spreadsheets/d/1APes9I6RzGmMQL-Ns2f4VJTtxWIM520i4jXXVS0NiOY/edit?usp=sharing)
+
+----
